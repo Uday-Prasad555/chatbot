@@ -1,0 +1,13 @@
+.chat-messages-container {
+    flex-grow: 1;
+    margin-top: 20px;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+.no-messages {
+    flex-grow: 1;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: #888888;
+}
